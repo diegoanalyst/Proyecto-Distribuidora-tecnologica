@@ -19,7 +19,9 @@ Con estos datos, seguimos optimizando nuestra comunicación para ofrecer un mejo
 
 Si te interesa ver el informe para analizar nuestras llamadas lo puedes ver en el siguiente link 💬👇
 
-<a>https://www.novypro.com/project/proyecto-distribuidora-tecnologica</a>
+<a href="https://www.novypro.com/project/proyecto-distribuidora-tecnologica" target="_blank">
+    https://www.novypro.com/project/proyecto-distribuidora-tecnologica
+</a>
 
 
 
